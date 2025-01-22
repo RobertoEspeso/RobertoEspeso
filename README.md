@@ -1,6 +1,6 @@
 # Hi! I'm Roberto Espeso 👋
 
-I am a **Junior Frontend Developer** with a solid background in design, having graduated as a **Multimedia Designer** and I am currently working in that profession. My journey has given me an understanding of the importance of visual interfaces and user experience, which I now combine with my growing passion for coding.
+I am a **Frontend Developer** with a solid background in design, having graduated as a **Multimedia Designer** and I am currently working in that profession. My journey has given me an understanding of the importance of visual interfaces and user experience, which I now combine with my growing passion for coding.
 
 ### 💻 **Technologies and Skills:**
 - **Frontend:**
