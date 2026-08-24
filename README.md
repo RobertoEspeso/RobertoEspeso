@@ -38,7 +38,7 @@ I'm a **Frontend Developer** at GO! Assistance, where I combine development, Pyt
   * Claude, ChatGPT/Codex, Gemini
 
 
-### 🚀 Notable Projects
+### 🚀 Latest Projects
 
 1. **[Celina Vestidos – Dress Rental Catalog](https://github.com/RobertoEspeso/celina-vestidos.github.io)** ([Demo](https://robertoespeso.github.io/celina-vestidos.github.io/)) — Freelance client project
    Catalog landing page for a dress rental business, built with vanilla HTML/CSS/JS and Tailwind CSS v4. Features a data-driven dynamic carousel, full technical SEO (schema.org, Open Graph, sitemap), and a framework-free architecture focused on performance and maintainability.
@@ -46,8 +46,6 @@ I'm a **Frontend Developer** at GO! Assistance, where I combine development, Pyt
 2. **[IAG – Corporate Multi-Page Site](https://github.com/RobertoEspeso/iag.github.io)** ([Demo](https://robertoespeso.github.io/iag.github.io/)) — Freelance client project
    Built a multi-page corporate site from a client-provided design to showcase their service and business differentiators. The main challenge was a non-standard, data-heavy contact form — built with dynamic JavaScript logic to adapt to clients requesting either a single item or multiple items. Built entirely by hand, with no AI assistance.
 
-3. **[Maravilla Martínez – YouTube API Consumption](https://github.com/RobertoEspeso/MaravillaMartinez)** ([Demo](https://robertoespeso.github.io/MaravillaMartinez/)) (2024)
-   Practice landing page consuming the YouTube API to dynamically display content from boxer Maravilla Martínez's channel, using asynchronous JavaScript (`fetch`) to retrieve and render the data.
 
 ### 🛠 **Projects in Development:**
 - **Social Network Base:** Practicing REST API consumption, file uploads, and data management to create a user profile and basic social functionalities (save, delete, request new content).
